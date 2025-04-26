@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Atharva Jitendra Kulkarni</h1>
-<h3 align="center">Looking for 2024 internships | Software Engineering | Data Science | MS CS at UT Dallas | Ex SWE @ACI Worldwide</h3>
+<h3 align="center">Looking for 2025 Full time opportunities | Software Engineering | Data Science | MS CS at UT Dallas | Ex SWE @ACI Worldwide</h3>
 
 - 🔭 I’m currently working on **Hire Chef Web Application**
 
