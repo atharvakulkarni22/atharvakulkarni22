@@ -66,8 +66,3 @@ Graduated from the University of Texas at Dallas with a Master’s in Computer S
 
 ---
 ⭐️ From [Atharva Kulkarni](https://github.com/atharvakulkarni22)
-
-<!-- Profile views counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/atharvakulkarni22/count.svg" alt="Visitor Count" />
-</div>
