@@ -2,21 +2,13 @@
 
 **Software Engineer | Java, Spring Boot, React, JavaScript, AWS, Python, AI Agents | MSCS @UTD | Ex Software Engineer @ACI Worldwide**
 
-## 🔭 I'm currently working on
+## 🔭 I'm currently working
 
 SWE at Heartland Community Network
 
-## 👀 I'm interested in
+## 👀 About Me
 
 Graduated from the University of Texas at Dallas with a Master’s in Computer Science, and I have about 3 years of experience as a software engineer working on full-stack development, backend systems, and AI-driven projects.
-
-## 👀 Visitor Count
-
-<!-- ⚠️ Important: Replace 'atharvakulkarni22' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/atharvakulkarni22/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
 
 ## 📊 GitHub Stats
 
