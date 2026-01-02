@@ -32,7 +32,7 @@ Graduated from the University of Texas at Dallas with a Master’s in Computer S
 
 ### ⚙️ Backend
 
-<img src="https://img.shields.io/badge/Node.js-4169e1?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-4169e1?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4169e1?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4169e1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-4169e1?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/.NET-4169e1?style=for-the-badge&logo=.net&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/Spring-4169e1?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-4169e1?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4169e1?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4169e1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-4169e1?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/.NET-4169e1?style=for-the-badge&logo=.net&logoColor=white" /> 
 
 ### 🚀 DevOps
 
